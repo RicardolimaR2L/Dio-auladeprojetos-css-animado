@@ -10,13 +10,13 @@ body {
 .wrapper {
   height: 100vh;
   width: 100vw;
-  background: linear-gradient(-45deg, #d5265d, #2bae43, #4ca59b, #1fa194);
+  background: linear-gradient(-45deg, #5e0878, #085078, #4ca59b, #bc63d9b7);
   background-size: 400% 400%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  animation: backgroundTransition 8s ease-in-out infinite;
+  animation:backgroundTransition 8s ease-in-out infinite;
 }
 
 h1 {
